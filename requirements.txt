@@ -1,0 +1,2 @@
+# If your project has any requirements not included in anaconda, include them here
+pandas_datareader
